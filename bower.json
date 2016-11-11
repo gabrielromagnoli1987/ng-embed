@@ -26,8 +26,8 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "^1.x",
-    "angular-sanitize": "^1.x"
+    "angular": "^1.5",
+    "angular-sanitize": "^1.5"
   },
   "devDependencies": {}
 }
